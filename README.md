@@ -12,6 +12,7 @@ Email address
 First name
 Last name
 Phone number
+
 The information you provide is used to process transactions, send periodic emails, and improve the service we provide. We do share your information with trusted third parties who assist us in operating our website, conducting our business and servicing clients and visitors. These trusted third parties agree to keep this information confidential. Your personal information will never be shared with unrelated third parties.
 
 ACTIVITY
